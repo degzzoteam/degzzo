@@ -1,0 +1,18 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/api/contact/route": "/api/contact",
+  "/favicon.ico/route": "/favicon.ico",
+  "/Partners/unique/page": "/Partners/unique",
+  "/Partners/page": "/Partners",
+  "/admin/page": "/admin",
+  "/about/page": "/about",
+  "/careers/page": "/careers",
+  "/industries/page": "/industries",
+  "/client-login/page": "/client-login",
+  "/joinus/page": "/joinus",
+  "/ourwork/page": "/ourwork",
+  "/products.jsx/page": "/products.jsx",
+  "/ourservice/page": "/ourservice",
+  "/page": "/",
+  "/process/page": "/process"
+}
