@@ -81,7 +81,7 @@ function Header() {
                       </Link>
                     </li>
                     <li>
-                      <Link href="/joinus">
+                      <Link href="/careers">
                         <div className="p-2" onClick={() => setIsMenuOpen(false)}>Careers</div>
                       </Link>
                     </li>

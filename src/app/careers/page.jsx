@@ -1,5 +1,7 @@
 "use client"
 
+import Link from 'next/link';
+
 import {
   Heart,
   Users,
@@ -174,12 +176,14 @@ export default function CareersPage() {
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <button className="px-8 py-4 bg-white text-purple-600 font-semibold rounded-full hover:bg-gray-100 transition-colors duration-300 text-lg">
+            {/* <button className="px-8 py-4 bg-white text-purple-600 font-semibold rounded-full hover:bg-gray-100 transition-colors duration-300 text-lg">
               View Open Positions
-            </button>
+            </button> */}
+            <Link href="/joinus">
             <button className="px-8 py-4 border-2 border-white text-white font-semibold rounded-full hover:bg-white hover:text-purple-600 transition-all duration-300 text-lg">
               Send Your Portfolio
             </button>
+            </Link>
           </div>
         </div>
       </section>
